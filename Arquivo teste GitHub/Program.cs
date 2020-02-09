@@ -7,6 +7,8 @@ namespace Arquivo_teste_GitHub
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            Console.WriteLine("Bom diaaaa");
         }
     }
 }
