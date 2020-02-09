@@ -9,6 +9,8 @@ namespace Arquivo_teste_GitHub
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Bom diaaaa");
+
+            Console.WriteLine("Teste meeu");
         }
     }
 }
